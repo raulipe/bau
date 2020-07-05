@@ -1,27 +1,29 @@
-Projeto - Trabalho Unit Test
 
-    Integrantes                     RA
-    Raul Felipe Silva Fausto        1901728
-    Bruno César Rodrigues           1902034
-    
-Descrição 
-       
-    Trabalho referente a primeira entrega da disciplina
-    de Automação de Testes de Software sobre o conteúdo 
-    de testes de unidade
- 
-Conteúdo
-   
-    - classe de teste (CalculadoraTest.java)
-    = classe testada (Calculadora.java)
-    - 11 testes de unidade 
-    - Cobertura de 100%
-    - Comandos
-    - Desvio
-    - Condição
-    - teste utilizando Mock
-    
-Agradecimento
+Autores:
 
-    Professor Robson Agapito pelo apoio após o horario
-    da aula e tirar dúvidas sempre que requisitado.
+    Raul Felipe Silva Fausto 
+
+    Bruno César Rodrigues
+    
+Descrição
+    
+    Projeto referente a entrega da atividade de teste
+    de sistemas. 
+    Automação de testes do sistema: 
+    http://agapito-server.herokuapp.com/users
+    Utilizamos  as automações de Usuários criadas
+    em aula como base para automatizar Processos:
+    Create new process
+    Edit process
+    Delete Process
+    Check Created process
+    Scenario Outline
+    
+Agradecimento:
+
+    Ao professor Robson Agapito pelo conhecimento 
+    compartilhado e maestria em fazer isso em sua 
+    disciplina.
+
+
+
